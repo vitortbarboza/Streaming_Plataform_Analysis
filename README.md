@@ -26,5 +26,6 @@ Como o projeto tinha uma deadline, não foi possível explorar novas hipóteses 
 
 - Contruir um sistema de recomendação de filmes e/ou séries.
 - Realizar um Web-Scraping para conseguir comentários relacionados aos conteúdos para entender o que os usuários pensam sobre os conteúdos (análise de sentimento).
+- Construir um Dashboard interativo.
 
 >  This is a challenge by [Coodesh](https://coodesh.com/)
