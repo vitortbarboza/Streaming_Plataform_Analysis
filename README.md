@@ -20,12 +20,11 @@
 
 - A linguagem que foi utilizada para desenvolver o projeto foi Python.
 
-Para acessar o projeto, é só abrir o arquivo EDA_Plataforma_Streaming.ipynb que está no repositório.
 
-Como o projeto tinha uma deadline, não foi possível explorar novas hipóteses , no entanto, aqui estão possíveis passos para tornar o projeto mais atraente:
+Próximos passos do projeto:
 
 - Contruir um sistema de recomendação de filmes e/ou séries.
 - Realizar um Web-Scraping para conseguir comentários relacionados aos conteúdos para entender o que os usuários pensam sobre os conteúdos (análise de sentimento).
 - Construir um Dashboard interativo.
 
->  This is a challenge by [Coodesh](https://coodesh.com/)
+
